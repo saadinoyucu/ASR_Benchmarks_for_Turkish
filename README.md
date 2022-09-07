@@ -1,4 +1,4 @@
-# ASR_Benchmarks_for_Turkish
+# ASR (automatic speech recognition) Benchmarks for Turkish
 DEVELOPMENT OF TEST CORPUS WITH LARGE VOCABULARY FOR TURKISH SPEECH RECOGNITION SYSTEM AND A NEW TEST PROCEDURE
 
 
