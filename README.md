@@ -97,3 +97,9 @@ Due to the significant improvements in the success rates of automatic speech rec
 
 The test procedure prepared within the scope of the study has been tested on Google Speech to Text, Amazon Transcribe and Azure Speech to Text services. It has also been tested on the ASR system, which has a large vocabulary prepared by Oyucu and Polat in 2020. It has been observed that the obtained WER results vary between 14-21% and different ASR services have their advantages and disadvantages. Google's preprocessing of speech files and not processing files above a certain signal-to-noise ratio causes the maximum WER value to be high. However, this situation is completely different in Azure and Amazon. Therefore, they have a lower maximum WER ratio. When the existing Turkish ASR services were examined, it was seen that the problem of large vocabulary could not be solved. For this reason, studies should be carried out on the problem of large vocabulary for Turkish in future studies. The test corpus and test procedure presented in this study will guide the studies on large vocabulary.
 
+# Sample audio and text files that can be used for ASR
+
+# You can contact us for more data.
+
+saadinoyucu@gmail.com
+
